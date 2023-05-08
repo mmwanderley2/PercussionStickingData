@@ -1,0 +1,109 @@
+Score Section,Note,Value,P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15,P16,P17,P18,P19,P20,P21,P22,P23,P24,P25,P26,P27,P28,P29,P30,P31,Model Alt D,Model DHL
+A  – Intro - Simple Meter,1,B,D,N,D,D,D,N,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,N,D,D,D,D,D,D,D,d
+,2,W,N,D,D,N,N,D,N,N,N,N,N,N,N,N,N,N,N,D,D,N,N,N,N,N,D,N,N,N,N,N,D,N,d
+,3,W,D,N,D,N,D,N,D,D,N,D,N,D,D,D,D,D,N,D,D,D,D,D,D,N,N,D,N,D,D,N,D,D,d
+,4,W,N,D,D,N,N,N,N,D,D,D,D,D,N,D,D,N,D,D,D,N,D,N,D,N,D,N,N,N,N,N,D,N,d
+,5,B,D,N,D,D,D,D,D,N,N,N,N,N,D,N,N,D,N,D,D,D,N,D,N,D,N,D,D,D,D,D,D,D,d
+,6,B,D,N,D,D,N,N,N,D,D,D,D,D,D,D,D,D,D,D,D,N,D,D,D,D,D,N,N,N,N,N,D,N,d
+,7,B,N,D,D,D,D,N,D,N,D,N,D,N,N,N,D,N,D,D,D,D,D,D,D,D,D,N,N,D,D,N,D,D,d
+,8,B,D,N,D,D,N,N,N,D,D,D,D,D,D,D,D,D,D,D,D,N,D,D,D,D,D,N,N,N,N,D,D,N,d
+,9,W,N,D,D,N,D,D,D,N,N,N,D,N,N,N,N,N,N,D,D,D,N,N,N,D,N,D,D,D,D,N,D,D,d
+,10,B,D,N,D,D,N,N,N,D,D,D,D,D,D,D,D,D,D,D,D,N,D,D,D,D,D,N,N,N,N,D,D,N,d
+A1 – Simple Sync,11,T,N,D,D,N,D,D,D,N,N,D,N,N,N,N,D,N,D,N,D,N,D,N,D,N,N,N,N,D,D,D,D,D,n
+,12,T,N,N,D,N,N,D,N,D,N,D,N,D,D,N,N,N,D,N,D,N,D,N,D,N,N,N,N,N,N,D,D,N,n
+,13,W,D,D,N,D,D,N,D,N,D,N,D,N,N,D,D,D,N,D,D,D,N,D,N,D,D,D,D,D,D,N,D,D,d
+,14,T,N,N,N,N,N,D,N,D,N,D,N,D,D,N,N,N,D,N,D,N,D,N,D,N,N,N,N,N,N,D,D,N,n
+,15,W,D,D,D,D,D,N,D,N,D,N,D,N,N,D,D,D,N,D,D,D,N,D,N,D,D,D,D,D,D,N,N,D,d
+B – Incrased Rhythmic Complexity,16,B,D,N,D,D,D,N,N,D,D,D,D,D,D,D,D,D,D,D,D,N,D,D,D,D,D,D,D,D,N,D,D,N,d
+,17,T,N,D,N,N,N,D,D,G,N,N,N,N,N,N,N,N,N,N,N,D,N,N,N,N,N,N,N,N,D,N,N,D,n
+,18,W,D,N,D,D,D,N,N,N,D,D,D,D,D,D,D,D,D,D,D,N,D,D,D,D,D,D,D,D,N,D,D,N,d
+,19,T,N,D,N,N,N,D,D,G,N,N,N,N,N,N,N,N,N,N,N,D,N,N,N,N,N,N,N,N,D,N,N,D,n
+,20,B,D,N,D,D,D,N,N,D,D,D,D,D,D,D,D,D,D,D,D,N,D,D,D,D,D,D,D,D,N,D,D,N,d
+,21,S,N,D,N,N,N,D,D,N,N,N,N,N,N,N,N,N,N,N,N,D,N,N,N,N,N,N,N,N,D,N,N,D,n
+,22,T,D,N,D,D,D,N,N,D,D,D,D,D,D,D,D,D,D,D,D,N,D,D,D,D,D,D,D,D,N,D,D,N,d
+,23,W,D,N,D,D,N,N,D,N,D,D,D,N,N,D,D,D,N,D,D,D,D,D,N,D,N,N,D,N,D,N,D,D,d
+,24,S,N,D,N,N,D,D,N,D,N,N,N,D,D,N,N,N,D,N,N,N,N,N,D,N,D,D,N,D,N,D,N,N,n
+,25,T,D,N,D,D,N,N,D,N,D,D,D,N,N,D,D,D,N,D,D,D,D,D,N,D,N,N,D,N,D,N,D,D,d
+,26,S,N,D,N,N,D,D,N,D,N,N,N,D,D,N,N,N,D,N,N,N,N,N,D,N,D,D,N,D,N,D,N,N,n
+,27,B,D,N,D,D,N,N,D,N,D,D,D,N,N,D,D,D,N,D,D,D,D,D,N,D,N,N,D,N,D,N,D,D,d
+,28,B,D,N,D,D,D,N,N,D,D,D,D,D,D,D,D,D,D,D,D,N,D,D,D,D,D,N,D,D,N,D,D,N,d
+,29,S,N,D,N,N,N,D,D,N,N,N,N,N,N,N,N,N,N,N,N,D,N,N,N,N,N,D,N,N,D,N,N,D,n
+,30,S,N,N,N,N,N,D,N,D,N,D,N,D,D,N,N,N,N,N,N,N,D,N,N,N,D,N,N,D,N,N,D,N,n
+,31,T,D,D,D,D,D,N,D,N,D,N,D,N,N,D,D,D,D,D,D,D,N,D,D,D,N,D,D,N,D,D,N,D,d
+,32,T,N,N,N,D,N,D,N,D,N,D,N,D,D,N,D,N,N,D,N,N,D,N,D,D,D,N,N,N,N,N,D,N,n
+,33,W,D,D,D,D,D,N,D,N,D,D,D,N,E,D,D,D,D,D,D,D,D,D,N,D,N,D,D,D,D,D,D,D,d
+,34,S,N,N,N,N,N,D,N,D,N,N,N,D,E,N,N,N,N,N,N,N,N,N,D,N,D,N,N,N,N,N,N,N,n
+,35,T,D,D,D,D,D,N,D,N,D,D,D,N,E,D,D,D,D,D,D,D,D,D,N,D,N,D,D,D,D,D,D,D,d
+,36,B,D,N,D,D,N,N,N,D,D,D,D,N,E,D,D,D,N,D,D,N,D,D,D,D,D,N,D,N,N,D,D,N,d
+,37,S,N,D,N,N,D,D,D,N,N,N,N,D,E,N,N,N,D,N,N,D,N,N,N,N,N,D,N,D,D,N,N,D,n
+,38,T,D,N,D,D,N,N,N,D,D,D,D,G,E,D,D,D,N,D,D,N,D,D,D,D,D,N,D,N,N,D,D,N,d
+,39,W,D,D,D,D,D,N,D,D,D,D,D,D,E,D,D,D,D,N,D,D,D,D,N,D,N,D,D,D,D,N,D,D,d
+,40,S,N,N,N,N,N,D,N,N,N,N,N,N,E,N,N,N,N,G,N,N,N,N,D,N,D,N,N,N,N,D,N,N,n
+B1 – Enhanced Sync,41,S,D,N,N,N,D,D,D,D,N,D,N,E,E,N,N,N,D,D,N,N,D,N,D,D,D,N,N,N,N,N,D,D,n
+,42,S,N,D,N,N,N,D,N,D,N,D,N,E,E,N,N,D,N,N,N,D,N,N,D,N,N,D,D,D,D,D,N,N,n
+,43,W,D,N,D,D,D,N,D,N,D,N,D,E,E,D,D,N,D,D,D,N,D,D,N,D,D,N,D,N,N,E,D,D,d
+,44,S,N,D,N,N,N,D,D,D,N,D,N,E,E,N,E,D,N,D,N,D,N,N,D,N,N,D,N,D,D,E,N,N,n
+,45,S,D,N,N,N,N,D,G,D,N,N,N,E,E,N,E,N,D,N,N,N,D,N,N,N,D,N,N,N,N,E,N,D,n
+,46,B,N,D,D,D,D,N,D,N,D,D,D,E,E,D,E,D,N,N,D,D,N,D,D,D,N,D,D,D,D,E,D,N,d
+,47,T,N,N,N,N,N,D,N,D,N,D,N,E,D,N,D,N,D,E,D,N,D,N,D,D,D,N,N,N,N,D,D,D,n
+,48,T,D,N,N,N,N,D,D,D,N,D,N,D,D,N,D,N,N,D,D,N,N,N,D,D,N,N,N,N,N,D,D,N,n
+,49,W,N,D,D,D,D,N,N,N,D,N,D,N,N,D,N,D,D,N,D,D,D,D,N,N,D,D,D,D,D,N,D,D,d
+,50,T,D,N,D,N,N,D,D,D,N,D,N,G,D,N,D,N,N,D,N,N,N,N,D,D,N,N,N,N,N,D,D,N,n
+,51,S,N,N,N,N,N,D,N,D,N,D,N,D,N,N,D,N,D,D,N,N,D,N,N,N,D,D,N,N,N,D,N,D,n
+,52,T,D,D,D,D,D,N,D,N,D,N,D,N,D,D,N,D,N,N,D,D,N,D,D,D,N,N,D,D,D,N,D,N,d
+,53,S,N,N,N,N,N,D,N,D,N,D,N,D,N,N,D,N,D,D,N,N,D,N,N,N,D,D,N,N,N,D,N,D,n
+,54,W,D,D,D,D,D,N,D,N,D,N,D,N,D,D,E,D,N,N,D,D,N,D,D,D,N,N,D,D,D,N,D,N,d
+,55,S,N,N,N,N,N,D,N,D,N,D,N,G,N,N,E,N,D,D,N,N,D,N,N,N,D,D,N,N,N,D,N,D,n
+C – Atypical Sync,56,B,D,D,D,D,D,N,D,N,D,N,D,D,D,D,E,D,N,N,D,D,N,D,D,D,N,N,D,D,D,N,D,N,d
+,57,T,N,N,D,N,N,D,N,D,N,D,N,N,N,N,D,N,D,D,N,N,D,N,N,N,D,D,N,N,N,D,D,D,n
+,58,T,D,N,N,D,D,D,D,D,N,D,N,D,D,N,D,N,D,D,N,N,D,N,D,N,N,N,D,N,D,E,D,N,n
+,59,S,N,N,N,N,N,D,N,D,N,D,N,N,N,N,D,N,D,D,N,N,D,N,N,N,D,D,D,D,N,E,D,D,n
+,60,W,D,D,D,N,D,D,D,D,N,D,N,D,D,N,D,N,D,D,N,N,D,N,D,G,N,N,D,N,D,E,D,N,d
+,61,S,N,N,N,N,G,D,N,N,N,D,N,G,N,N,D,N,D,D,N,N,D,N,N,N,D,D,G,D,N,E,D,D,n
+B2 – Enhanced Sync,62,T,D,N,D,D,D,N,N,D,D,D,D,N,D,D,D,N,D,D,N,N,D,D,D,D,D,D,D,D,D,D,D,N,d
+,63,S,N,D,N,N,N,D,D,N,N,N,N,D,N,N,N,D,N,N,D,D,N,N,N,N,N,N,N,N,N,N,N,D,n
+,64,W,D,N,D,D,D,N,N,D,D,D,D,N,D,D,D,N,D,D,N,N,D,D,D,D,D,D,D,D,D,D,D,N,d
+,65,T,D,N,D,D,D,N,D,N,D,G,D,D,N,D,D,D,D,D,N,D,D,D,N,D,N,N,D,D,N,N,D,D,d
+,66,S,N,D,N,N,N,D,N,D,N,G,N,N,D,N,N,N,N,N,G,N,G,N,D,N,D,D,N,N,D,D,N,N,n
+,67,S,D,N,N,N,D,D,D,N,N,D,N,D,N,N,D,D,D,N,E,N,N,N,N,E,N,N,D,D,N,E,D,D,n
+,68,S,D,N,N,D,D,N,D,D,N,D,D,N,D,D,D,D,D,D,E,D,G,N,D,G,D,D,E ,D,D,E,D,N,n
+,69,T,N,D,D,N,N,D,N,N,D,N,N,D,N,N,N,N,N,N,E,N,G,D,N,G,N,N,E,N,N,E,N,D,d
+D – Adv Tuplet,70,B,D,N,D,D,D,N,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,N,d
+,71,P,N,D,D,D,N,D,N,N,N,N,D,N,N,N,D,N,N,N,D,N,N,N,N,D,N,N,N,N,N,N,D,D,n
+,72,P,D,N,D,D,D,N,D,D,D,D,D,D,D,D,D,D,D,D,N,D,D,N,D,N,D,D,N,D,D,D,D,N,d
+,73,P,D,N,D,N,D,D,D,D,N,D,D,N,N,N,D,N,N,N,E,N,D,N,N,D,N,N,E,D,N,E,D,D,n
+E – Simple Sync,74,B,D,D,D,D,N,N,N,N,D,D,D,D,D,D,D,D,D,D,D,D,N,D,D,G,D,D,E,N,D,E,D,N,d
+,75,T,N,N,D,N,D,D,D,D,N,N,N,N,N,N,N,N,N,D,D,N,G,N,N,G,N,N,G,D,N,E,N,D,n
+,76,W,D,D,D,D,N,N,G,N,D,D,D,D,D,D,D,D,D,G,N,D,G,D,D,G,D,D,G,N,D,E,D,N,d
+,77,B,D,N,D,D,D,N,D,D,D,D,D,N,N,D,D,D,N,D,G,N,E,D,N,D,N,N,N,D,N,E,D,D,d
+,78,T,N,D,D,N,N,D,N,N,N,N,N,D,D,N,N,N,D,D,G,D,E,N,D,D,D,D,D,N,D,E,N,N,n
+,79,T,N,N,D,N,N,D,D,D,N,D,N,N,N,N,D,D,N,D,G,N,D,N,N,D,N,G,D,D,N,E,N,D,n
+,80,B,D,D,D,D,D,N,N,N,D,D,D,D,D,D,N,N,D,D,G,D,N,D,D,D,D,G,D,N,D,D,D,N,d
+,81,W,D,N,D,D,D,N,D,D,D,D,D,N,D,D,D,D,D,D,G,N,D,D,N,D,N,G,D,D,N,D,D,D,d
+,82,T,N,D,N,N,N,D,N,N,N,N,N,D,N,N,N,N,N,D,G,D,N,N,D,N,D,G,N,N,D,N,D,N,n
+D1 – Tuplet + Sync,83,B,D,N,D,D,D,N,D,D,D,D,D,N,D,D,D,D,D,D,D,N,D,D,N,D,N,N,D,D,N,D,D,D,d
+,84,P,N,D,N,N,N,D,N,N,N,N,N,D,N,N,N,N,N,D,N,D,N,N,D,N,D,D,N,N,D,N,D,N,n
+,85,P,D,N,D,D,D,D,D,D,D,D,D,N,D,D,D,D,D,D,D,N,D,D,N,D,N,N,D,D,N,D,D,D,d
+,86,S,N,D,N,D,N,D,N,D,N,D,N,D,N,N,D,N,D,N,N,D,D,N,D,D,D,D,N,D,D,N,N,N,n
+F – Hybrid Section - Adv Tuplets + Sync,87,B,D,N,D,D,D,N,D,N,D,D,D,N,D,D,D,D,D,D,N,N,G,D,D,D,D,N,D,N,N,D,D,D,d
+,88,W,D,N,D,D,D,N,N,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,N,D,D,D,D,N,D,N,d
+,89,S,N,D,N,N,N,D,D,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,D,N,N,N,N,D,N,D,n
+,90,P,D,N,D,D,D,D,G,D,N,D,D,D,N,D,D,D,D,N,N,D,D,N,N,D,D,D,N,D,N,N,D,N,d
+,91,P,N,D,N,N,N,N,G,N,D,N,N,N,D,N,N,N,N,D,D,N,N,D,D,N,N,N,D,N,D,D,N,D,n
+,92,W,D,N,D,D,D,D,G,D,D,D,D,D,N,D,D,D,D,D,D,D,D,D,N,D,D,D,N,D,N,D,D,N,d
+,93,S,N,D,N,N,N,N,G,N,N,D,N,N,D,N,D,N,N,N,N,N,N,N,D,N,N,N,N,N,N,N,N,D,n
+,94,T,D,N,D,D,D,N,D,D,N,D,N,D,N,N,N,D,D,D,N,D,D,N,D,D,D,D,N,D,D,N,D,N,n
+,95,S,D,N,N,N,N,D,D,D,N,D,N,D,D,N,N,D,E,D,E,N,D,N,D,D,D,N,N,N,N,D,N,D,n
+,96,W,N,D,D,D,D,N,N,N,D,D,D,N,N,D,D,N,E,N,E,D,N,D,N,N,N,D,D,D,D,N,D,N,d
+,97,S,D,N,N,N,N,D,D,D,N,N,N,D,D,N,N,D,G,D,E,N,D,N,D,D,D,N,N,N,N,D,N,D,n
+,98,B,N,N,N,N,D,D,N,D,N,D,N,D,N,N,N,N,N,D,G,N,D,N,N,D,N,D,N,N,D,G,D,N,d
+,99,S,D,D,D,D,N,N,D,N,D,N,D,N,D,D,D,D,D,N,G,D,N,D,D,N,D,N,D,D,N,G,N,D,n
+,100,T,N,N,N,N,D,D,N,D,N,D,N,D,N,N,N,N,N,D,G,N,D,N,N,D,N,D,N,N,E,G,D,N,d
+,101,W,D,N,N,D,D,D,N,D,N,D,D,N,D,N,D,N,D,N,D,N,D,N,G,D,D,N,D,D,N,G,D,D,d
+,102,S,N,D,D,N,N,N,D,N,D,N,N,D,N,D,N,D,N,D,N,D,N,D,G,N,N,E,N,N,D,G,N,N,n
+,103,B,D,N,D,D,D,N,G,D,D,D,D,G,D,N,D,N,D,D,D,N,D,N,D,D,D,D,D,D,N,D,D,D,d
+Grip,,,FR,GER,FR,AM/FR,FR,FR,FR,FR,FR,FR,FR,FR,AM/FR,FR,FR,FR,FR,FR,FR,FR,FR,FR,FR,FR,FR,GER,FR,FR,FR,GER,FR,,
+Years Experience,,,13,13,12,11,18,17,8,15,8,18,12,3,10,13,18,5,9,10,10,7,12,15,14,6,10,15,16,18,11,12,7,,
+Age,,,23,22,21,25,45,24,20,23,28,33,25,26,22,23,47,21,26,22,20,14,26,30,32,21,21,21,20,29,26,20,22,,
+Muting,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,N,Y,N,Y,N,Y,N,N,Y,Y,N,N,Y,N,,
+Dominant Hand,,,R,R,R,R,R,L,L,L,R,L,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,L,R,,
