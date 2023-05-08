@@ -1,5 +1,5 @@
 # PercussionStickingData
-Full Annotated Data for 31 performers
+Full Annotated Data from 31 performers
 
 Paper:
 Sticking Choices in Timpani Sight-Reading Performance
